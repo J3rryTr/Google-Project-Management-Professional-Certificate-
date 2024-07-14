@@ -21,11 +21,22 @@ Following a process:
 
 Project manager roles:
 - Introduction level project management roles:
-    + Junior Project
+    + Junior Project:
+    + Project Administrator:
+    + Project/Program Coordination:
+    + Project Support Specialist:
+
+- Traditional project management roles:   
+    + Project manager:
+    + Project Analyst:
+    + Project Leader/Directory:
+    + Project Controller:
+    + Technical Project Manager:
+    + Project Management Office(PMO):
 
 - Program and portfolio management roles:    
 
 | Program | Portfolio |
 | -------- | -------- |
-|Manage a group of project that are related or similar to one another and <br>handle the coordination of these project. They facilitate effective communication between individual project management and provide support where necessary. They also help create and manage long-term goals for their organization | Responsible for managing a group of related programs within the same organization. They are track and that organization is meeting its strategic intuition. Portfolio look at all projects and programs within the organization and prioritize work as necessary|   
+|Manage a group of project that are related or similar to one another and handle the coordination of these project. They facilitate effective communication between individual project management and provide support where necessary. They also help create and manage long-term goals for their organization | Responsible for managing a group of related programs within the same organization. They are track and that organization is meeting its strategic intuition. Portfolio look at all projects and programs within the organization and prioritize work as necessary|   
 
