@@ -36,7 +36,26 @@ Project manager roles:
 
 - Program and portfolio management roles:    
 
+![Alt text]()
+
+
 | Program | Portfolio |
 | -------- | -------- |
 |Manage a group of project that are related or similar to one another and handle the coordination of these project. They facilitate effective communication between individual project management and provide support where necessary. They also help create and manage long-term goals for their organization | Responsible for managing a group of related programs within the same organization. They are track and that organization is meeting its strategic intuition. Portfolio look at all projects and programs within the organization and prioritize work as necessary|   
+
+   
+
+- Operational management roles:    
+
+| Operations Analyst | Operations Manager | Chief Operating Officer|
+| -------- | -------- | -------- |
+|Manages and coordinates research, investigates workflows, creates business procedures, and recommends changes to improve the project and company. | Oversees strategic decision-making and rolls out plans of action based on financial, schedule, and resource reporting. | Responsible for overseeing the day-to-day administrative and operational functions of a business.
+
+
+- Agile roles   
+
+| Scrum Master | Product Owner |
+| -------- | -------- |
+| Coordinates and guides the Scrum team. Knowledgeable in Agile framework and Scrum and is able to teach others about the Scrum values and principles. May also be listed as a Technical Program Manager or Technical Project Manager. | Drives the direction of product development and progress. |
+
 
