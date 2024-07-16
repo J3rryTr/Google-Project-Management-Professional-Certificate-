@@ -3,5 +3,5 @@
 ## Explore how a project manager adds value
 
 ### Responsibilities 
-![Alt text](https://github.com/J3rryTr/Google-Project-Management-Professional-Certificate-/blob/main/C1_Foundations_of_Project_Management/images/Interpersonal_%20skills.png)
 
+<div style="text-align:center"><img src="https://github.com/J3rryTr/Google-Project-Management-Professional-Certificate-/blob/main/C1_Foundations_of_Project_Management/images/Interpersonal_%20skills.png" alt="" width="480" height="480"></div>
