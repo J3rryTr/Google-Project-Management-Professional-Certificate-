@@ -22,5 +22,5 @@
 - Controlling Change: Managing changes effectively, addressing concerns, and ensuring everyone is aligned.
 
 
-<div style="text-align:center"><img src="" alt="work with cross-functional teams" width="480" height="480"></div>    
+<div style="text-align:center"><img src="https://github.com/J3rryTr/Google-Project-Management-Professional-Certificate-/blob/main/C1_Foundations_of_Project_Management/images/Working_with_cross-functional_teams.png" alt="work with cross-functional teams" width="480" height="480"></div>    
 
