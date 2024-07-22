@@ -11,7 +11,7 @@ The Classic organizational structure is a top-down hierarchy system, where a Chi
 Friendly Skies Airlines has a Classic organizational structure, as indicated by its reporting or “org” chart.
 
 <div style="text-align:center">
-<img src="https://github.com/J3rryTr/Google-Project-Management-Professional-Certificate-/blob/main/C1_Foundations_of_Project_Management/images/classic_org_chart.png" alt="Classic org chart" width="640" height="640">
+<img src="https://github.com/J3rryTr/Google-Project-Management-Professional-Certificate-/blob/main/C1_Foundations_of_Project_Management/images/classic_org_chart.png" alt="Classic org chart" width="640" height="480">
 </div> 
 
 ### Matrix organizational structures
@@ -23,5 +23,5 @@ The Matrix structure differs from the Classic structure in that the employees ha
 As a project manager in a Matrix organization, a team will essentially have at least two chains of command, or managers. You can think of the project manager as being a temporary manager while assigned to the team. The functional manager is consistent regardless of the project a project manager is supporting. The visual below illustrates what the Friendly Skies Airlines would look like if it had a Matrix organizational structure.   
 
 <div style="text-align:center">
-<img src="https://github.com/J3rryTr/Google-Project-Management-Professional-Certificate-/blob/main/C1_Foundations_of_Project_Management/images/Matrix_org_chart.png" alt="Matrix org chart" width="640" height="640">
+<img src="https://github.com/J3rryTr/Google-Project-Management-Professional-Certificate-/blob/main/C1_Foundations_of_Project_Management/images/Matrix_org_chart.png" alt="Matrix org chart" width="640" height="480">
 </div> 
