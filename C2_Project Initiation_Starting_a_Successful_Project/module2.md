@@ -136,5 +136,54 @@ As the project manager is to deliver the project according to the scope agreemen
 ### Launching and landing a project
 | |Launching| Landing|
 |---------|------------|----------|
-|Definition| Delivering the final result of out project to the client or user| Measuring the success of our project using the success criteria established at the outset of the project|
-|
+|Definition| Delivering the final result of out project to the client or user| Measuring the success of our project using the success criteria established at the outset of the project|    
+
+Landing is a concept and not a finite definition, it's important to define what a successful landing looks like for a particular project.       
+
+### Success criteria
+Definition:   
+- Tells you whether or not the project was successful   
+- Specific details of project goals, deliverables, requirement, and expectations        
+- The standards by which the project will be judged once it's been delivered to stakeholders.       
+
+Find success criteria also clarifies for your team what they're trying to accomplish beyond just launching sth to users. Enhance an exiting feature to retain customers. Depending on the project, the answers will be different. Important that a team is aligned and working towards a shared goal. Sometimes forcing the conversation and clarify what the end result looks like can bring to light questions and areas of disagreement.     
+
+| | Adoption| Engagement|
+|------------|------------|-----------------|
+|Define| how the customer uses and adopts a product or service without any issues| how often or meaningful customer interaction and participation is over time.|
+|WHAT| Include launching a new product to a group of users and having a high amount of them use or adopt it| Increasing the daily usage of a design feature or increasing orders and customer interactions|
+|WHO| The stakeholders and customers are ultimately judge if the project meets its goals, deliverables, requirements, and other success criteria.|      
+
+What is important to the customers and stakeholder?      
+The stakeholders and customers need additional expectation for feature and objective. Additionally, a strategic goal of the organization could be to create word processor software with more collaborative ability than the word processors currently on the market.       
+Often, you can measure the fulfillment of strategic goals via user or customer metrics. Metrics to consider include:        
+- Evaluating user engagement with the product       
+- Measuring stakeholder and customer satisfaction via surveys       
+- Tracking user adoption of the product by using sales data         
+
+Document, aligned, and communicate success          
+- Who ultimately says whether or not the project is successful?         
+- What criteria will be measured to determine success?          
+- What is the success of this project based on?     
+
+--> It is best practice to get the key stakeholders or the steering committee to review and approve your success criteria.      
+
+
+### Using OKRs to evaluate progress
+Objectives and Key Results (OKRs)       
+|Objectives| Key Results|
+|----------|-------------|
+|- Define what needs to be achieved <br>   - Describe a desired outcome| - The measurable outcomes that objectively when define the objective has been met|     
+
+#### Communication and tracking OKRs
+Conducting regular check-ins and actively tracking progress with your team can help ensure that objectives are being met and that any issues are resolved as soon as possible.      
+<b>Share your OKRs with your team</b>: Once you’ve created OKRs for your project, it’s important to communicate them to your team so that everyone knows how to focus and align their efforts. You can do this by sharing a digital document, presenting them in a meeting, or adding them to an internal website. OKRs can help your project team stick to its goals, monitor which are falling short, and be continuously motivated to meet project objectives.      
+<b>Assign owners</b>: Assign an owner to every key result so that everybody knows who’s responsible for what. This helps add clarity and increases accountability.      
+
+#### Measuring progress
+
+Measuring your OKRs is an important part of tracking and sharing your progress. One shortcut to determining the status of a project is to score or grade your OKRs. While scores or grades don’t provide a complete assessment of a project’s success, they’re helpful tools for determining how close you came to achieving your objectives. You can then share your OKR scores with project stakeholders and team members as part of your overall project updates.        
+
+<b>Determine how you will score your OKRs</b>: OKRs can be scored in different ways. You can score based on a percentage of the objective completed.       
+<b>Set your scoring expectations</b>: With Google’s 0.0–1.0 scale, the expectation is to set ambitious OKRs and aim to achieve an average of at least 0.6 to 0.7 across all OKRs. For OKRs graded according to percentage achieved, the sweet spot is somewhere in the 60–70% range. Scoring lower may mean the team is not achieving what it could be. Scoring higher may mean the aspirational goals are not being set high enough.       
+<b>Schedule checkpoints</b>: It’s important to regularly communicate the status of project OKRs with your team and senior managers. For example, it can be helpful to have monthly check-ins on the progress of OKRs to give both individuals and your team a sense of where they are. Typically, at the end of the quarter, you’ll grade each of your OKRs to evaluate how well the team did to achieve its goals.     
