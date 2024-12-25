@@ -4,4 +4,7 @@
 - [x] **Course 1: Foundations of Project Management**     
 Understanding a definition of project management and common roles
 
-- [x]**Course 2: ** 
+- [x] **Course 2: Project Initiation: Starting a Successful Project**        
+Understanding make a planning, monitoring, and evaluating.      
+
+- [] **Course 3: Project Planning: Putting It All Together**
