@@ -13,6 +13,6 @@ Understanding make a planning, monitoring, and evaluating.
 
 - [] **Course 5: Agile Project Management**         
 
-- []**Course 6: Capstone: Applying Project Management in the Real World**           
+- [] **Course 6: Capstone: Applying Project Management in the Real World**           
 
 
